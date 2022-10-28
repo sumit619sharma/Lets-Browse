@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lets Browse</string>
+    <string name="enter_url" />
+    <string name="one" />
+    <string name="go_btn" />
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_hint" />
+    <string name="search_url">Search_Url</string>
+    <string name="save">save</string>
+    <string name="forward">forward</string>
+    <string name="back">back</string>
+    <string name="bookmark">bookmark</string>
+    <string name="notch">notch</string>
+    <string name="bookmark_name">bookmark_name</string>
+
+    <string name="view_all">view All</string>
+    <string name="all_bookmarks">All BookMarks</string>
+    <string name="tab_name">tab_name</string>
+    <string name="_one">1</string>
+    <string name="tabname">TabName</string>
+
+</resources>
